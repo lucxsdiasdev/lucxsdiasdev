@@ -7,8 +7,8 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-ff0084?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/lucxsdias_/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucas-dias-19b1a3302/](https://www.linkedin.com/in/lucxsdiasdev/))
-[![gmail](https://img.shields.io/badge/Gmail-db0425?style=for-the-badge&logo=gmail&logoColor=white)](llucasdiasdev@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucxsdiasdev/)
+[![gmail](https://img.shields.io/badge/Gmail-db0425?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llucasdiasdev@gmail.com)
 
 ##
 
