@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Lucas 👋
 
-- Em busca da primeira vaga de estágio.
 - Cursando Engenharia de Software na Universidade Católica de Santa Catarina.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucxsdiasdev&show_icons=true&locale=en&theme=github_dark" alt="lucxsdiasdev" /></p>
